@@ -1,4 +1,4 @@
-package org.example;  // パッケージ名を正しく修正
+package org.example; 
 
 public class Student {
     private String name;
